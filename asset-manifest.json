@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/github.io/samay-jain/LearnRedux-ReactApp/static/css/main.e6c13ad2.css",
-    "main.js": "/github.io/samay-jain/LearnRedux-ReactApp/static/js/main.ef81109d.js",
-    "static/js/453.aefce0cb.chunk.js": "/github.io/samay-jain/LearnRedux-ReactApp/static/js/453.aefce0cb.chunk.js",
-    "index.html": "/github.io/samay-jain/LearnRedux-ReactApp/index.html",
-    "main.e6c13ad2.css.map": "/github.io/samay-jain/LearnRedux-ReactApp/static/css/main.e6c13ad2.css.map",
-    "main.ef81109d.js.map": "/github.io/samay-jain/LearnRedux-ReactApp/static/js/main.ef81109d.js.map",
-    "453.aefce0cb.chunk.js.map": "/github.io/samay-jain/LearnRedux-ReactApp/static/js/453.aefce0cb.chunk.js.map"
+    "main.css": "/LearnRedux-ReactApp/static/css/main.e6c13ad2.css",
+    "main.js": "/LearnRedux-ReactApp/static/js/main.b2edad3c.js",
+    "static/js/453.aefce0cb.chunk.js": "/LearnRedux-ReactApp/static/js/453.aefce0cb.chunk.js",
+    "index.html": "/LearnRedux-ReactApp/index.html",
+    "main.e6c13ad2.css.map": "/LearnRedux-ReactApp/static/css/main.e6c13ad2.css.map",
+    "main.b2edad3c.js.map": "/LearnRedux-ReactApp/static/js/main.b2edad3c.js.map",
+    "453.aefce0cb.chunk.js.map": "/LearnRedux-ReactApp/static/js/453.aefce0cb.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.ef81109d.js"
+    "static/js/main.b2edad3c.js"
   ]
 }
