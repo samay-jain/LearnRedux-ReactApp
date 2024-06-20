@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/github.io/samay-jain/LearnRedux-ReactApp/static/css/main.e6c13ad2.css",
+    "main.js": "/github.io/samay-jain/LearnRedux-ReactApp/static/js/main.ef81109d.js",
+    "static/js/453.aefce0cb.chunk.js": "/github.io/samay-jain/LearnRedux-ReactApp/static/js/453.aefce0cb.chunk.js",
+    "index.html": "/github.io/samay-jain/LearnRedux-ReactApp/index.html",
+    "main.e6c13ad2.css.map": "/github.io/samay-jain/LearnRedux-ReactApp/static/css/main.e6c13ad2.css.map",
+    "main.ef81109d.js.map": "/github.io/samay-jain/LearnRedux-ReactApp/static/js/main.ef81109d.js.map",
+    "453.aefce0cb.chunk.js.map": "/github.io/samay-jain/LearnRedux-ReactApp/static/js/453.aefce0cb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.ef81109d.js"
+  ]
+}
